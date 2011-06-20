@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AndroidProjektActivity!</string>
+    <string name="app_name">AndroidProjekt</string>
+    <string name="subactivity">Eine weitere Subactivity</string>
+    <string name="sf_neuerButton">Der neue Button</string>
+</resources>
