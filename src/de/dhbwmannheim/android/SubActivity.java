@@ -22,7 +22,6 @@ public class SubActivity extends Activity {
 		
 		TextView tf_feld = (TextView)findViewById(R.id.tf_text);
 		tf_feld.setText(text);
-		tf_feld.setText(text);
 	}
 
 }
